@@ -141,3 +141,35 @@ margin-left: -60%;
 margin-left: -80%;
 }
 /* slide end*/
+
+/*Haupt start*/
+
+.Themen{
+    text-align: center;
+    padding: 15px;
+    }
+    
+    
+    
+    
+    .foo{	
+        bottom: 25%;
+        left: 40%;
+        text-align: center;
+         font-weight: bold;
+        font-size: 29px;
+        background-color: black;
+          opacity: .8;
+          color: white;
+    }
+    
+    
+    
+        a img{
+            padding: 10px;
+        }
+    
+    
+    
+    /*Haupt End*/
+    
